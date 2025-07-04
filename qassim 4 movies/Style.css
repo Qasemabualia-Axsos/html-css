@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+.tt{
+    color: red;
+}
+.ttt{
+    color: green;
+}
+.fac{
+    text-align: center;
+}
+.dark{
+    text-align: right;
+}
+.aot{
+    text-align: center;
+    padding: 8px;
+    box-shadow: 4px;
+    
+}

@@ -1,0 +1,30 @@
+button{
+    display: block;
+    margin: 20px 0 0 40px;
+}
+.searh{
+    color: #59b7b9;
+    border:2px solid #59b7b9;
+    width: 150px;
+    height: 30px;
+    font-size: 15px; 
+    font-weight: bold;
+    border-radius: 20px;
+}
+.pluse{
+    background-color: #00D1B2;
+    border-radius: 50%;
+    width: 40px;
+    border:1px solid aqua;
+    font-size: 25px;
+}
+.create{
+    background-color: rgb(89, 115, 199);
+    font-size: 18px;
+    width: 180px;
+    box-shadow: 4px 4px 0px black;
+}
+.pluse,.create{
+    height: 40px;
+    color: white;
+}

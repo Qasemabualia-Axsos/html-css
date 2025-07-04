@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
+main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cover{
+    background-color: aquamarine;
+    width: 400px;
+    height: 90px;
+}
+article{
+    border: 1px solid black;
+}
+.p-pic{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
